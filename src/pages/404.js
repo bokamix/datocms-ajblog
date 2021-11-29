@@ -10,7 +10,7 @@ const pageStyles = {
 const headingStyles = {
   marginTop: 0,
   marginBottom: 64,
-  maxWidth: 320,
+  maxWidth: 320, dsfdsf dsf dsf sd
 }
 
 const paragraphStyles = {
