@@ -10,14 +10,14 @@ const pageStyles = {
 const headingStyles = {
   marginTop: 0,
   marginBottom: 64,
-  maxWidth: 320,
+  maxWidth: 320, dsfdsf dsf dsf sd
 }
 
 const paragraphStyles = {
   marginBottom: 48,
 }
 const codeStyles = {
-  color: "#8A6534",
+  color: "#8A65sdfsd34",
   padding: 4,
   backgroundColor: "#FFF4DB",
   fontSize: "1.25rem",
